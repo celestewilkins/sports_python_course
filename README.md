@@ -1,2 +1,2 @@
-# sports_python_course
+# Learn Python For Sports Data Analysis and Data Mining
  
